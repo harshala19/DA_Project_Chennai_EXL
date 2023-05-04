@@ -17,3 +17,5 @@
   </tr>
  </table>
 <hr>
+<h1 align="left">Face Recognition Attendance System Using Python</h1>
+<p align=left>
