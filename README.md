@@ -1,4 +1,4 @@
-<table align="center">
+<table align="leftside">
   <tr>
     <td>Name</td>
     <td>Harshala Yevlekar</td>
